@@ -1,16 +1,4 @@
 ﻿# README
-[Question 1]() \
-[Question 2]() \
-[Question 3]() \
-[Question 4]() \
-[Question 5]() \
-[Question 6]() \
-[Question 7]() \
-[Question 8]() \
-[Question 9]() \
-[Question 10]() \
-[Question 11]() \
-[Question 12]() \
-[Question 13]() \
-[Question 14]() \
-[Question 15]()
+[Part 1](./Part1/changes.md) \
+[Part 2](./Part2/part2.md) \
+[Part 3](./Part3/part3.md) 
